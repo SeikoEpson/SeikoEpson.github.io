@@ -1,7 +1,7 @@
 Seiko Epson provide information about software related to our products.
 
 ** [**OSS(Open Source Software) information**](/List/OSSs.md) **
-<p style="text-indent:1rem;">note: information about OSSs</p>
+<UL>note: information about OSSs</UL>
 
 ** **Software information for utilizing our products** **
 
