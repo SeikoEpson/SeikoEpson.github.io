@@ -1,7 +1,7 @@
 Seiko Epson provide information about software related to our products.
 
 ** [**OSS(Open Source Software) information**](/List/OSSs.md) **
-<UL>note: information about OSSs</UL>
+<UL>note: Information about OSS used in XP-4100 </UL>
 
 ** **Software information for utilizing our products** **
 
